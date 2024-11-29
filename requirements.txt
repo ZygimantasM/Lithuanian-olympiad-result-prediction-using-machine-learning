@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+optuna
+xgboost
+scikit-learn
+category_encoders
