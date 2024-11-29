@@ -59,5 +59,3 @@ These dependencies are listed in the `requirements.txt` file.
 4. Modeling
 
 5. Results and Conclusion
-
-## License
